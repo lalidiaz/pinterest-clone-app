@@ -71,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # Interest-pinterest-clone
 # pinterest-clone
 # pinterest-clone
+# pinterest-clone-app
